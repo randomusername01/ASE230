@@ -59,7 +59,7 @@
 				    <div class="col">
 					    <div class="row p-4 justify-content-center justify-content-md-between">
 						    <div class="primary-info col-auto">
-							    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase"><?=$author?>></h1>
+							    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase"><?=$author?></h1>
 							    <div class="title mb-3"><?=$job_title?></div>
 							    <ul class="list-unstyled">
 								    <li class="mb-2"><a class="text-link" href="#"><i class="far fa-envelope fa-fw me-2" data-fa-transform="grow-3"></i><?=$email?></a></li>
